@@ -1,0 +1,16 @@
+# Ambientes virtuais
+.venv/
+venv/
+env/
+
+# Arquivos temporários do Python
+__pycache__/
+*.pyc
+
+# Pastas de compilação e executáveis
+dist/
+build/
+*.exe
+
+# Configurações de editores
+.vscode/
